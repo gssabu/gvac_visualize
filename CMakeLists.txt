@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(lino_visualize)
+project(gvac_visualize)
 
 find_package(catkin REQUIRED)
 
