@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package>
-  <name>lino_visualize</name>
+  <name>gvac_visualize</name>
   <version>0.0.0</version>
-  <description>RVIZ files for LINOROBOT</description>
+  <description>RVIZ files for gvac</description>
 
-  <maintainer email="jimenojmm@gmail.com">juan</maintainer>
-  <license>BSD</license>
+  <maintainer email="gvac@todo.todo">todo</maintainer>
+  <license>TODO</license>
   <buildtool_depend>catkin</buildtool_depend>
   <export>
 
